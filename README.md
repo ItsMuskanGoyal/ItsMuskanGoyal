@@ -2,9 +2,10 @@
 
 [![Muskan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsMuskanGoyal&show_icons=true&hide_rank=true)](https://github.com/ItsMuskanGoyal/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmuskangoyal)](https://github.com/itsmuskangoyal/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmuskangoyal&layout=donut)](https://github.com/itsmuskangoyal/github-readme-stats)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=itsmuskangoyal)](https://github.com/itsmuskangoyal/github-readme-stats)
+
 
 <!--
 **ItsMuskanGoyal/ItsMuskanGoyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
