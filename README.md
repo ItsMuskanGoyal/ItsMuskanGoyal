@@ -4,10 +4,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmuskangoyal&layout=donut)](https://github.com/itsmuskangoyal/github-readme-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=itsmuskangoyal)](https://git.io/streak-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=itsmuskangoyal)](https://github.com/itsmuskangoyal/github-readme-stats)
 <!--
 **ItsMuskanGoyal/ItsMuskanGoyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Only when I have a wakatime public profile
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=itsmuskangoyal)](https://github.com/itsmuskangoyal/github-readme-stats)
 
 Here are some ideas to get you started:
 
