@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-[![Muskan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsMuskanGoyal)](https://github.com/ItsMuskanGoyal/github-readme-stats)
+[![Muskan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsMuskanGoyal icons=true&theme=transparent&hide_rank=true)](https://github.com/ItsMuskanGoyal/github-readme-stats)
+
 
 <!--
 **ItsMuskanGoyal/ItsMuskanGoyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
