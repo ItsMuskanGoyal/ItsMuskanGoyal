@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![GitHub Streak](https://streak-stats.demolab.com/?user=itsmuskangoyal&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=itsmuskangoyal&theme=transparent&text_color=#45b6b6&hide_border=true)](https://git.io/streak-stats)
 
 [![Muskan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsMuskanGoyal&show_icons=true&hide_rank=true&theme=transparent)](https://github.com/ItsMuskanGoyal/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmuskangoyal&layout=donut&theme=transparent)](https://github.com/itsmuskangoyal/github-readme-stats)
 
