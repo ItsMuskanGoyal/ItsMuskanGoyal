@@ -5,10 +5,11 @@
 
 
 <pre>
-    💼 <a href="https://muskan.framer.ai/" target="_blank" style="text-decoration:none;color:inherit;">Founding AI Engineer @ Big Bag AI</a> • <a href="https://linktr.ee/itsmuskangoyal" target="_blank" style="text-decoration:none;color:inherit;">Building Production AI Agents (n8n · LangGraph · Vapi · RAG)</a>
-    💼 <a href="https://sscbs.du.ac.in/" target="_blank" style="text-decoration:none;color:inherit;">BSc @ SSCBS</a> • <a href="https://xloud.tech/" target="_blank" style="text-decoration:none;color:inherit;">Founder Office @ Xloud</a>
-    💻 <a href="https://www.linkedin.com/posts/its-muskan-goyal_developerscommunity-techinnovation-communitybuilding-activity-7162400453555634176-YtIL?utm_source=share&utm_medium=member_desktop" target="_blank" style="text-decoration:none;color:inherit;">Community Manager @ Developers</a> • <a href="https://hackcbs.tech/" target="_blank" style="text-decoration:none;color:inherit;">Organizer @ hackCBS</a>
+    😎 <a href="https://muskan.framer.ai/" target="_blank" style="text-decoration:none;color:inherit;">Founding AI Engineer @ Big Bag AI</a> • <a href="https://linktr.ee/itsmuskangoyal" target="_blank" style="text-decoration:none;color:inherit;">Building Production AI Agents</a>
+    💼 <a href="https://sscbs.du.ac.in/" target="_blank" style="text-decoration:none;color:inherit;">CS'25 @ SSCBS</a> • <a href="https://xloud.tech/" target="_blank" style="text-decoration:none;color:inherit;">Ex-Founder Office @ Xloud</a>
+    💻 <a href="https://www.linkedin.com/posts/its-muskan-goyal_developerscommunity-techinnovation-communitybuilding-activity-7162400453555634176-YtIL?utm_source=share&utm_medium=member_desktop" target="_blank" style="text-decoration:none;color:inherit;">Community Manager @ Developers 10+ members</a> • <a href="https://hackcbs.tech/" target="_blank" style="text-decoration:none;color:inherit;">Organizer @ hackCBS</a>
     📖 Passionate about AI Engieering • Automation/ Cloud • AI/ML • AI Advocacy/ Consulting 
+    💵 75+ Agentic Workflows Shipped (n8n · LangGraph · Vapi · RAG)
     🎮 Hackathons • Event Organization • Coding • Content Creation
     🐾 Networking • Plushies • Exploring Tech & Creativity 🐤🐥
 
